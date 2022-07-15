@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `noricu.be`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Seokju Yun`,
+      summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `nori.cube blog`,
+    siteUrl: `https://noricu.be/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `noricube`,
     },
   },
   plugins: [
