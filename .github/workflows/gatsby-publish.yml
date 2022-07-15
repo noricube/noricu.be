@@ -9,9 +9,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: enriikke/gatsby-gh-pages-action@v2
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Install Node.js
+        uses: actions/setup-node@v3
         with:
-          access-token: ${{ secrets.GITHUB_TOKEN }}
-          deploy-branch: gh-pages
-          gatsby-args: --prefix-paths
+          node-version: 18
+          
+      - name: Install Project Dependencies   
+        run: npm ci
+
+      - name: Install Gatsby CLI
+        run: npm install -g gatsby-cli@2.12.34
+      
+      - name: Build
+        run: gatsby build
+      
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
