@@ -16,12 +16,12 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
-          
-      - name: Install Project Dependencies   
-        run: npm ci
 
       - name: Install Gatsby CLI
         run: npm install -g gatsby-cli@2.12.34
+        
+      - name: Install Project Dependencies   
+        run: npm install
       
       - name: Build
         run: gatsby build
