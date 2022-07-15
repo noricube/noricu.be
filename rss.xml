@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[nori.cube blog]]></description><link>https://noricu.be</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 15 Jul 2022 15:21:01 GMT</lastBuildDate><item><title><![CDATA[월요일 출근길 금요일 퇴근길은 진짜로 사람이 많을까?]]></title><description><![CDATA[…]]></description><link>https://noricu.be/월요일-출근길-금요일-퇴근길은-진짜로-사람이-많을까/</link><guid isPermaLink="false">https://noricu.be/월요일-출근길-금요일-퇴근길은-진짜로-사람이-많을까/</guid><pubDate>Fri, 15 Jul 2022 14:21:00 GMT</pubDate><content:encoded>&lt;p&gt;요즘 회사에 몇번 출근할 일이 있어서 출퇴근을 해보니 경험적으로 월요일 출근길과 금요일 퇴근길은 정말 사람이 유난히 많다는 생각이 들었고 이게 진짜인지 확인하고 싶어졌다.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[nori.cube blog]]></description><link>https://noricu.be</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 15 Jul 2022 15:27:47 GMT</lastBuildDate><item><title><![CDATA[월요일 출근길 금요일 퇴근길은 진짜로 사람이 많을까?]]></title><description><![CDATA[…]]></description><link>https://noricu.be/월요일-출근길-금요일-퇴근길은-진짜로-사람이-많을까/</link><guid isPermaLink="false">https://noricu.be/월요일-출근길-금요일-퇴근길은-진짜로-사람이-많을까/</guid><pubDate>Fri, 15 Jul 2022 14:21:00 GMT</pubDate><content:encoded>&lt;p&gt;요즘 회사에 몇번 출근할 일이 있어서 출퇴근을 해보니 경험적으로 월요일 출근길과 금요일 퇴근길은 정말 사람이 유난히 많다는 생각이 들었고 이게 진짜인지 확인하고 싶어졌다.
 몇몇 사람들과 이야기 해보니 몇가지 가설로 압축이 되더라.&lt;/p&gt;
 &lt;h2&gt;가설&lt;/h2&gt;
 &lt;ul&gt;
@@ -83,6 +83,7 @@ COVID-19로 인한 재택근무 영향을 제외하기 위해 2019년 데이터�
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;요일&lt;/th&gt;
+&lt;th&gt;17 ~ 18&lt;/th&gt;
 &lt;th&gt;18 ~ 19&lt;/th&gt;
 &lt;th&gt;19 ~ 20&lt;/th&gt;
 &lt;th&gt;20 ~ 21&lt;/th&gt;
@@ -93,6 +94,7 @@ COVID-19로 인한 재택근무 영향을 제외하기 위해 2019년 데이터�
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;월&lt;/td&gt;
+&lt;td&gt;364,198&lt;/td&gt;
 &lt;td&gt;582,866&lt;/td&gt;
 &lt;td&gt;311,192&lt;/td&gt;
 &lt;td&gt;224,007&lt;/td&gt;
@@ -101,6 +103,7 @@ COVID-19로 인한 재택근무 영향을 제외하기 위해 2019년 데이터�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;화&lt;/td&gt;
+&lt;td&gt;381,056&lt;/td&gt;
 &lt;td&gt;593,818&lt;/td&gt;
 &lt;td&gt;315,283&lt;/td&gt;
 &lt;td&gt;232,059&lt;/td&gt;
@@ -109,6 +112,7 @@ COVID-19로 인한 재택근무 영향을 제외하기 위해 2019년 데이터�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;수&lt;/td&gt;
+&lt;td&gt;386,240&lt;/td&gt;
 &lt;td&gt;596,810&lt;/td&gt;
 &lt;td&gt;309,509&lt;/td&gt;
 &lt;td&gt;229,797&lt;/td&gt;
@@ -117,6 +121,7 @@ COVID-19로 인한 재택근무 영향을 제외하기 위해 2019년 데이터�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;목&lt;/td&gt;
+&lt;td&gt;383,769&lt;/td&gt;
 &lt;td&gt;590,958&lt;/td&gt;
 &lt;td&gt;314,349&lt;/td&gt;
 &lt;td&gt;235,910&lt;/td&gt;
@@ -125,6 +130,7 @@ COVID-19로 인한 재택근무 영향을 제외하기 위해 2019년 데이터�
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;금&lt;/td&gt;
+&lt;td&gt;417,310&lt;/td&gt;
 &lt;td&gt;620,720&lt;/td&gt;
 &lt;td&gt;333,396&lt;/td&gt;
 &lt;td&gt;237,952&lt;/td&gt;
